@@ -1,6 +1,6 @@
 Cervical cancer is one of the most preventable and treatable forms of cancer when detected early through proper screening and risk assessment. In many developing regions, however, lack of access to healthcare and diagnostic services contributes to late-stage detection, leading to higher mortality rates.
 Here provided with a dataset containing anonymized information about 858 women. Primary objective is to build machine learning models that can predict the likelihood of a positive biopsy diagnosis for cervical cancer based on these risk factors.
-. 
+
 **Dataset description**
 Dataset: risk_factors_cervical_cancer.csv
 Target Variable: Biopsy (0 = No cervical cancer, 1 = Cancer detected)
