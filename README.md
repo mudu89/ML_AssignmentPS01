@@ -10,18 +10,18 @@ The dataset contains the following types of features:
 •	Medical history: STDs, HPV infection
 •	Diagnosis results: Hinselmann, Schiller, Citology, and Biopsy (targets)
 
-**1.	Import Libraries/Dataset **
+**1.	Import Libraries/Dataset**
 
 a.	Download the dataset.
 b.	Import the required libraries.
 
-**2.	Data Visualization and Exploration [1M] **
+**2.	Data Visualization and Exploration [1M]**
 
 a.	Print 2 rows for sanity check to identify all the features present in the dataset and if the target matches with them.
 b.	Provide appropriate data visualizations to get an insight about the dataset. 
 c.	Do the correlational analysis on the dataset. Provide a visualization for the same. Will this correlational analysis have effect on feature selection that you will perform in the next step? Justify your answer. Answer without justification will not be awarded marks.
 
-**3.	Data Pre-processing and cleaning [2M] **
+**3.	Data Pre-processing and cleaning [2M]**
 
 a.	Do the appropriate pre-processing of the data like identifying NULL or Missing Values if any, handling of outliers if present in the dataset, skewed data etc. Mention the pre-processing steps performed in the markdown cell. 
 b.	Apply appropriate feature engineering techniques. Apply the feature transformation techniques like Standardization, Normalization, etc. You are free to apply the appropriate transformations depending upon the structure and the complexity of your dataset. Provide proper justification. Techniques used without justification will not be awarded marks. Explore a few techniques for identifying feature importance for your feature engineering task.
